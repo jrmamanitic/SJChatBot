@@ -1,0 +1,11 @@
+streamlit>=1.38
+openpyxl>=3.1
+langchain>=0.3
+langchain-groq>=0.2
+langchain-community>=0.3
+langchain-huggingface>=0.1
+langchain-text-splitters>=0.3
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+google-api-python-client>=2.140
+google-auth>=2.34
